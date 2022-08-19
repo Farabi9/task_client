@@ -2,24 +2,24 @@ import React from 'react';
 
 const Stat = () => {
     return (
-        <div class="stats shadow">
+        <div class="stats shadow w-full mt-10 bg-red-100">
   
         <div class="stat place-items-center">
-          <div class="stat-title">Downloads</div>
-          <div class="stat-value">31K</div>
-          <div class="stat-desc">From January 1st to February 1st</div>
+          <div class="stat-title text-black text-2xl font-bold">Students</div>
+          <div class="stat-value">31K+</div>
+          
         </div>
         
         <div class="stat place-items-center">
-          <div class="stat-title">Users</div>
-          <div class="stat-value text-secondary">4,200</div>
-          <div class="stat-desc text-secondary">↗︎ 40 (2%)</div>
+          <div class="stat-title text-black text-2xl font-bold">Users</div>
+          <div class="stat-value text-secondary">2M</div>
+        
         </div>
         
         <div class="stat place-items-center">
-          <div class="stat-title">New Registers</div>
+          <div class="stat-title text-black text-2xl font-bold">New Registers</div>
           <div class="stat-value">1,200</div>
-          <div class="stat-desc">↘︎ 90 (14%)</div>
+         
         </div>
         
       </div>

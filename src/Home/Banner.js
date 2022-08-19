@@ -3,7 +3,7 @@ import Ed from '../Images/edtech-1-808x451.png';
 
 const Banner = () => {
   return (
-    <div class="hero min-h-screen bg-base-200">
+    <div class="hero p-20 bg-base-100 shadow-2xl mt-10" >
     <div class="hero-content flex-col lg:flex-row-reverse">
       <img src={Ed} class="max-w-sm rounded-lg ml-12 shadow-2xl" />
       <div >
