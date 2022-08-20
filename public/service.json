@@ -1,0 +1,35 @@
+[
+    {
+      "name": "JavaScript",
+      "img": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+      "description": "It's a proper Javascript course. You will learn all core programm from this course",
+      "mentor": "Farabi",
+      "students": "303",
+      "price": "2500"
+
+    },
+        {
+      "name": "Java",
+      "img": "https://hackr.io/blog/best-java-courses/thumbnail/large",
+      "description": "It's a proper Java course. You will learn all core programm from this course",
+      "mentor": "Abir",
+      "students": "200",
+      "price": "2000"
+    },
+    {
+      "name": "Python",
+      "img": "/src/Images/Python-Learning-Courses.png",
+      "description": "It's a proper Python course. You will learn all core programm from this course",
+      "mentor": "Rafi",
+      "students": "170",
+      "price": "2100"
+    },
+    {
+      "name": "PHP",
+      "img": "https://i.ytimg.com/vi/t0syDUSbdfE/maxresdefault.jpg",
+      "description": "It's a proper PHP course. You will learn all core programm from this course",
+      "mentor": "Hakim",
+      "students": "100",
+      "price": "1800"
+    }
+  ]

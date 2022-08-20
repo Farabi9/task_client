@@ -2,7 +2,7 @@ import React from 'react';
 
 const Stat = () => {
     return (
-        <div class="stats shadow w-full mt-10 bg-red-100">
+        <div class="stats shadow lg:w-full sm:w-96 mt-10 bg-red-100">
   
         <div class="stat place-items-center">
           <div class="stat-title text-black text-2xl font-bold">Students</div>

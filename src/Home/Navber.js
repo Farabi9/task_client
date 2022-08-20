@@ -15,11 +15,12 @@ const Navbar = () => {
 
 
     const menuItems = <>
-        <li className='text-xl'><Link to='/'>Home</Link></li>
+        <li className='text-xl text-violet-200 font-bold'><Link to='/'>Home</Link></li>
         
-        <li className='text-xl'><Link to='/service'>Service</Link></li>
-        <li className='text-xl'><Link to='/contract'>Contract</Link></li>
-        <li className='text-xl'><Link to='/about'>About</Link></li>
+        <li className='text-xl text-violet-200 font-bold'><Link to='/service'>Service</Link></li>
+        <li className='text-xl text-violet-200 font-bold'><Link to='/contract'>Contract</Link></li>
+        <li className='text-xl text-violet-200 font-bold'><Link to='/about'>About</Link></li>
+        
        
 
     </>
